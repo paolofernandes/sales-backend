@@ -1,5 +1,7 @@
 # Developer Evaluation Project
 
+> **Getting started?** See [RUNNING_LOCALLY.md](./RUNNING_LOCALLY.md) for step-by-step setup and API usage examples.
+
 `READ CAREFULLY`
 
 ## Use Case
